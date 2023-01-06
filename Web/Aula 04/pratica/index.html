@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="index.css">
+    <title>site</title>
+</head>
+<body>
+    <!-- 
+        Usamos a tag header para criar um cabeçalho de navegação 
+        Aqui, colocamos a logo da imagem e os links de navegação 
+        para as seções de cada produto do site
+    -->
+    <header>
+        <img src="./assets/site/logo_mex.png" alt="Imagem da logo do restaurante"/>
+        <h1>Los Mexs</h1>
+        <p class="subtitulo">A satisfação do Cliente é nossa Prioridade. *** Cardápio Exclusivo para Delivery</p>
+        <!-- 
+            Com a tag nav criamos a barra de navegação
+            onde colocamos nossos links 
+        -->
+        <nav>
+                <!-- 
+                    a tag ul cria uma lista não ordenada
+                    com ela nós conseguimos colocar nossos links de forma mais organizada
+                -->
+                <ul>
+                        <!-- A tag li é um elemento da lista de criamos -->
+                        <li>
+                            <!-- 
+                                a tag a cria um link
+                                O atributo href é onde colocamos o link para onde vamos redirecionar
+                                o usuario
+                                Dentro da tag a colocamos o texto que queremos 
+                                pode ser qualquer texto mas é bom sempre ser um texto que faça 
+                                sentido, por exemplo 
+                                se eu estiver criando um link que redireciona para o google 
+                                eu posso criar um link assim:
+                                <a href="wwww.google.com">Click aqui para ir para o google</a>
+                                veja que o texto do link é diferente do link, mas o texto é auto explicativo
+                                sobre para onde o link é direcionando 
+                                poderia também fazer isso 
+                                <a href="www.google.com">Cachorro</a>
+                                vai funcionar do mesmo jeito, mas muito provavelmente o usuário 
+                                não vai entender oque significa esse link 
+                                e talvez nem clicke nele por medo rsrsr
+                            -->
+                            <a href="#">Todos</a>
+                        </li>
+                        <li>
+                            <a href="#entradas">entradas</a>
+                        </li>
+                        <li>
+                            <a href="#burritos">burritos</a>
+                        </li>
+                        <li>
+                            <a href="#">chilli</a>
+                        </li>
+                        <li>
+                            <a href="#">fajitas</a>
+                        </li>
+                        <li>
+                            <a href="#">nachos</a>
+                        </li>
+                        <li>
+                            <a href="#">quesadillas</a>
+                        </li>
+                        <li>
+                            <a href="#">tacos</a>
+                        </li>
+                        <li>
+                            <a href="#">combos</a>
+                        </li>
+                    </ul>
+        </nav>
+    </header>
+    <main>
+        
+        <!-- 
+            com o id e o class criamos uma identificação para cada tag, assim co
+            conseguimos estilizar essa tag de maneira mais específica
+            pois, caso eu tenha um tag p(parágrafo) no header e outra tag p em outra parte do site
+            mas a do header eu quero que seja vermelho e a outra eu quero que continue preta como padrão 
+            se eu colocar no css apenas:
+            p {
+                color: red;
+            }
+            todos as tags do p do site ficaram vermelhas
+            para resover isso eu posso colocar uma id ou uma classe para poder selecionar a tag de forma
+            mais específica o css e assim mudar só o estilo daquela tag 
+
+            Não só isso, mas o id é um identificador único, ou seja, se uma tag tem um id específico 
+            outra tag não pode ter o mesmo id 
+            Assim, o id não server só para estilização, por exemplo, se quisermos criar um link que redireciona
+            para uma parte específica do site (como estamos fazendo no header acima) podemos colocar o id
+            da parte do site no atributo href da tag de link e assim quando o usuário clicar no link 
+            ele será redirecionado para essa parte do site
+        -->
+
+        <!-- seção de entradas-->
+        <section id="entradas">
+            <!-- 
+                usamos as divs para agrupar algumas tags e assim conseguimos 
+                estilizar o site de maneira mais organizada 
+                por exemplo, criamos uma div com uma classe "conteudo_secao"
+                com isso conseguimos organizar cada produto da maneira que nós fizemos na aula 
+                lado a lado e com aquela quebra de linha 
+                também criamos uma div "card" para organizar as informações de cada produto 
+                se tivessemos tentado ter feito tudo que fizemos sem criar nenhuma div 
+                seria muito dificil, talvez até impossível
+            -->
+            <div class="titulo_secao">
+                <h2>Entradas</h2>
+            </div>
+            <div class="conteudo_secao">
+                <div class="card">
+                    <img class="img_produto" src="./assets/entradas/alitaspicantes.jpeg" alt="imagem de alitas picantes" />
+                    
+                    <div class="titulo_preco">
+                        <h5>Alitas Picantes - 12 unid</h5>
+                        <h5 class="preco_produto" >R$ 35,00</h5>
+                    </div>
+                    <p>
+                        Deliciosas Tulipas de frango temperadas em molho de pimenta. 
+                        Acompanha 80g de Sour cream 
+                    </p>
+                    <button class="butao_comprar">Comprar</button>
+                </div>
+
+                
+
+                <div class="card">
+                    <img class="img_produto" src="./assets/entradas/alitaspicantes.jpeg" alt="imagem de alitas picantes" />
+                    
+                    <div class="titulo_preco">
+                        <h5>Alitas Picantes - 12 unid</h5>
+                        <h5 class="preco_produto" >R$ 35,00</h5>
+                    </div>
+                    <p>
+                        Deliciosas Tulipas de frango temperadas em molho de pimenta. 
+                        Acompanha 80g de Sour cream 
+                    </p>
+                    <button class="butao_comprar">Comprar</button>
+                </div>
+
+                <div class="card">
+                    <img class="img_produto" src="./assets/entradas/alitaspicantes.jpeg" alt="imagem de alitas picantes" />
+                    
+                    <div class="titulo_preco">
+                        <h5>Alitas Picantes - 12 unid</h5>
+                        <h5 class="preco_produto" >R$ 35,00</h5>
+                    </div>
+                    <p>
+                        Deliciosas Tulipas de frango temperadas em molho de pimenta. 
+                        Acompanha 80g de Sour cream 
+                    </p>
+                    <button class="butao_comprar">Comprar</button>
+                </div>
+
+                
+            </div>
+        </section>
+    </main>
+</body>
+</html>

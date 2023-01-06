@@ -1,0 +1,197 @@
+TEXTO PARA O HEADER
+- titulo da pagina
+    Los mexs
+- subtitulo 
+    A satisfação do Cliente é nossa Prioridade. *** Cardápio Exclusivo para Delivery
+
+- links de navegação 
+    Todos
+    entradas
+    burritos
+    chilli
+    fajitas
+    nachos
+    quesadillas
+    tacos
+    combos
+
+- textos das seções de cada produto
+    - entradas
+        - titulo 
+            Entradas
+        - produto 
+            Alitas Picantes - 12 unid
+            - preço
+                R$ 35,00
+            - descrição 
+                Deliciosas Tulipas de frango temperadas em molho pimenta.
+                Acompanha 80g de Sour cream
+         
+        - produto 
+            Guacamole
+            - preço
+                R$ 30,00
+            - descrição 
+                300g de pasta de abacate temperada com cebola roxa, tomate, sal, limão e azeite. Acompanha 150g de totopos e 80g de Sour Cream
+
+
+
+    - burritos
+        - titulo 
+            Burritos
+        - produto 
+            Burrito de pollo - 01 tortilha de 28 cm
+            - preço
+                R$ 26,00
+            - descrição
+                Tortilha de trigo recheada com 100 g de frango, 100g de queijo 
+               mussarela derretido e 40 g de pasta de feijão. **** Não acompanha molhos
+        - produto 
+            Burrito de filé - 01 tortilha de 28 cm
+            - preço
+                R$ 30,00
+            - descrição
+                Tortilha de trigo recheada com 100g de Filé, 100g de queijo mussarela derretido e 40 g de pasta de feijão. **** Não acompanha molhos
+
+       - produto 
+            Burrito de Camarão - 01 tortilha de 28 c
+            - preço
+                R$ 50,00
+            - descrição
+                01 tortilha de trigo de 28cm recheada com 100g de queijo mussarela derretido e uma deliciosa pasta de camarão. **** Não acompanha molhos
+                
+        - produto
+            Burrito de Chilli - 01 tortilha de 28cm
+            - preço
+                R$ 27,00
+            - descrição
+                Tortilha de trigo recheada com 100g de Chilli, 100g de queijo mussarela derretido e 40g de pasta de feijão. **** Não acompanha molhos
+
+
+
+    - Chilli
+        - titulo 
+            Chilli
+        - produto
+            Chilli Papas
+            - preço
+                R$ 36,00
+            - descrição 
+                Uma porção de 300g de Chilli, uma combinação de cebola, pasta de feijão, molho de tomate e pimentões coloridos, coberto com queijo mussarela derretido. Acompanha 100g de Totopos e 300g de Papas Fritas. Temos a opção de Chilli de carne ou de soja
+
+        -produto
+            Chilli Totopos
+            - preço
+                R$ 36,00
+            - descrição
+                Uma porção de 300g de Chilli, uma combinação de carne, cebola, pasta de feijão, molho de tomate e pimentões coloridos, coberto com queijo mussarela derretido. Acompanha 150g de Totopos Temos a opção de Chilli de carne ou de soja
+
+
+        - produto
+            Chilli de Carne
+            - preço
+                R$ 33,00
+            - descrição
+                Uma deliciosa combinação de 250 g de carne moída, cebola, pasta de feijão, molho de tomate e pimentões coloridos, coberta com queijo mussarela derretido. Acompanha 80g de totopos e 04 tortilhas de 16 cm cada.
+
+
+    Fajitas
+        - titulo
+            Fajitas
+
+        - produto 
+            Fajitas de filé - 04 Tortilhas
+            - preço
+                R$ 58,00
+            - descrição 
+                04 tortilhas de trigo de 16 cm com 300g de tiras de filé salteadas na frigideira com cebola, pimentões amarelos e vermelhos. **** Não acompanha molhos
+
+        - produto
+            Fajitas Camarão - 04 Tortilhas
+            - preço
+                R$ 65,00
+            - descrição 
+                04 tortilhas de trigo de 16 cm acompanhado de 300g de camarão salteados na frigideira com cebola, pimentões amarelos e vermelhos. **** Não acompanha molhos
+
+
+    - Nachos
+        - titulo
+            Nachos
+
+        - produto
+            Nacho de Carne - porção grande
+            - preço
+                R$ 48,00
+            - descrição
+                Uma generosa porção de 200g de totopos acompanhado de 150g de tinga de carne, 100g de creme cheddar, 200g de queijo mussarela e 80g de salsa roja. Acompanha folheto explicativo para montagem
+        
+        - produto 
+            Nacho de Pollo - meia porção
+            - preço
+                R$ 32,00
+            - descrição
+                Uma generosa porção de 100g de totopos acompanhado de 150g de tinga de frango, 100g de creme cheddar, 200 g de queijo mussarela e 80g de salsa roja. Acompanha folheto explicativo para montagem
+        
+
+
+    - Quesadillas
+        - titulo 
+            Quesadillas
+
+        - produto
+            Quesadilla de filé (4 pedaços)
+            - preço
+                R$ 45,00
+            - descrição
+                02 tortilhas de trigo integral de 28 cm recheadas com 100g de filé, 200g de mussarela, champignons, tomate e cebola. **** Não acompanha molhos
+
+
+        - produto 
+            Quesadilla de pollo (4 pedaços)
+            - preço
+                R$ 36,00
+            - descrição 
+                02 tortilhas de trigo integral de 28 cm recheadas com 100g de frango, 200g de mussarela, champignons, tomate e cebola. **** Não acompanha molhos
+
+
+    - Tacos
+        - titulo 
+            Tacos
+
+        - produto 
+            Taco de tinga de carne - 03 unidades
+            - preço
+                R$ 36,00
+            - descrição
+                03 tortilhas de milho de 16 cm enrolada tipo flauta recheada com 250 g de tinga de carne. **** Não acompanha molhos
+
+       - produto
+           Taco de pollo - 03 unidades
+           - preço
+               R$ 30,00
+           - descrição
+                 03 tortilhas de milho de 16 cm enroladas tipo flauta recheadas com 250 g de frango. **** Não acompanha molhos 
+
+
+    - Combos
+        - titulo
+            Combos
+
+        - produto
+            Combo El Mexicano - Burrito de filé + Totopos P + coca cola
+            - preço
+                R$ 40,00
+            - descrição
+                Delicioso burrito de filé, acompanhado de 60g de totopos super crocantes e uma coca geladinha de 350 ml. **** Não acompanha molhos
+
+        - produto 
+            Combo El Mexicano - Burrito de filé + Totopos M + coca cola
+            - preço
+                R$ 42,00
+            - descrição 
+                Delicioso burrito de filé, acompanhado de 80g de totopos super crocantes e uma coca geladinha de 350 ml. **** Não acompanha molhos
+
+
+
+
+        
